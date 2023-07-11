@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.1d841f35.css",
-    "main.js": "/static/js/main.302bc091.js",
+    "main.js": "/static/js/main.3aff946d.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/amazonEco.jpeg": "/static/media/amazonEco.ffd9d5eadbe4fba714c1.jpeg",
-    "static/media/gearbestlogo.jpg": "/static/media/gearbestlogo.d2bd887ba3f34f881a1d.jpg",
+    "static/media/gearbestlogo.jpg": "/static/media/gearbestlogo.3275c1988ca1d17db8f1.jpg",
     "static/media/learnStartUpbook.jpg": "/static/media/learnStartUpbook.99cd95e1f3cd210d6de1.jpg",
     "static/media/SewingMachine.jpg": "/static/media/SewingMachine.a1fc19930200638f659e.jpg",
     "static/media/ipadPro.jpg": "/static/media/ipadPro.969cf6bf910805d62dcd.jpg",
@@ -14,11 +14,11 @@
     "static/media/amazonBike.jpeg": "/static/media/amazonBike.ce5c06b080e3e58c2b9d.jpeg",
     "index.html": "/index.html",
     "main.1d841f35.css.map": "/static/css/main.1d841f35.css.map",
-    "main.302bc091.js.map": "/static/js/main.302bc091.js.map",
+    "main.3aff946d.js.map": "/static/js/main.3aff946d.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d841f35.css",
-    "static/js/main.302bc091.js"
+    "static/js/main.3aff946d.js"
   ]
 }
